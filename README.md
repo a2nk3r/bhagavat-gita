@@ -1,4 +1,4 @@
 # bhagavat-gita
 Simple web application showing verses from Bhagavat Gita (The Song of God)
 
-<img src="https://www.bhagavad-gita.us/wp-content/uploads/2012/09/gita-03-880x640.jpg" alt="bhagavat-gita" width="440" height="320"/>
+<img src="https://lh3.googleusercontent.com/sLzaw4mryh80DSeHPBLt8PjROOYKgNEyfOn15rdKJWJEW8AjERjQVZUB5Xm0tcPAO7Kqby3radaMWevi6OXVKe9iX6PsfW772kWrwkhVoksubMYQ_qt7zF3brEKnQlrO3QEY9gYwLfxdkEVfO5WRl_RaYbkDpDn78eOIsp4Mh9vFVGKhyFvTrfWxYY-P2okr7dgcqGAVBBGTB7sg7ITRM5puNcI4bvZbeRg8zlYY_B9c4GpAGxclISDG5QcV6sh8dYfAd8gJjsvfkPrVSWnhJROdjq8ZxfhJyW0zfiHrfR54WdlG68cqjaI8oV_0q3kpq3QIuFEiGAv5xyqsCnj6zitdWXnohsZcngm3oUEHLTZqTlW5L0iAlwQbjDZUQ5e9KLUYrW-6vX7f2wI2MUwIFEOIKKFfzZ9KLY46XFXlTRaNviZAJyrJXfSLeG4aBurYrhI2pbiynJRf8QUq3mL7VmAcXqTz0l6E34JHP_tXvW7slZi6Fl-gDP5q72rJrI_MsMdmxnKDQAfVTfA9s5qWmn1sapicqAXko4gbHyrdVWOE7SPSbtqXyygKFgjH9kG0QluXX5ScXDzZMR2HbzMzoaUwxz0nc9_83FsFJt-l9roGwJsR6_DMTT4ARqXMCL2mSRWhNegycBabdjG8CLBL1_Az1H1Hl-GG2FoWKNRKFvQOHaHXbHs9kzI5lTijsTTjGq2K9BuiG4-CTflcnQ=w861-h626-no" alt="bhagavat-gita" width="440" height="320"/>
