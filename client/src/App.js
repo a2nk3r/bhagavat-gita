@@ -1,8 +1,27 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      text: "Hey there!"
+    };
+  }
+  componentDidMount() {
+    this.callApi()
+      .then(res => this.setState({ text: res[0].text }))
+      .catch(err => console.log(err));
+  }
+  callApi = async () => {
+    const response = await fetch("/api/verses");
+    const body = await response.json();
+
+    if (response.status !== 200) throw Error(body.message);
+
+    return body;
+  };
   render() {
     return (
       <div className="App">
@@ -20,6 +39,7 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <p>{this.state.text}</p>
       </div>
     );
   }
