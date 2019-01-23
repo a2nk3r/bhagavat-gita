@@ -1,0 +1,28 @@
+{
+  "name": "bhagavat-gita",
+  "version": "1.0.0",
+  "description": "Simple web application showing verses from Bhagavat Gita (The Song of God)",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "server": "nodemon server.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vil-c/bhagavat-gita.git"
+  },
+  "author": "Aman Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vil-c/bhagavat-gita/issues"
+  },
+  "homepage": "https://github.com/vil-c/bhagavat-gita#readme"
+}
